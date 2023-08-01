@@ -1,10 +1,34 @@
-Hey there! My name's Ana, I'm 25 years old, and my goal is to become a full-stack developer.
+## 💙 Oiii! Tudo bom? 💙
 
-I've been studying since the beginning of the year, going through the basics, doing courses on my own and following the dev roadmap in order to get in the area as soon as I'm ready.
+Meu nome é Ana Caroline.
 
-I’m currently learning JavaScript, JSX, React and Node.
+Almejo me tornar uma desenvolvedora full-stack. 
 
-I want to collaborate on that while I work on my projects.
+Hoje estou estudando JavaScript, JSX, React e Node.
+
+<div>
+<a href:"https://github.com/acaroline66">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=acaroline66&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acaroline66&layout=compact&langs_count=16&theme=blueberry" />
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+ </div>
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:contatoacps5698@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/ana-caroline-sousa-499160209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+
 
 <!---
 Acaroline66/Acaroline66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

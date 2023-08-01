@@ -7,9 +7,9 @@ Almejo me tornar uma desenvolvedora full-stack.
 Hoje estou estudando JavaScript, JSX, React e Node.
 
 <div>
-<a href:"https://github.com/acaroline66">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=acaroline66&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acaroline66&layout=compact&langs_count=16&theme=blueberry" />
+<a href:"https://github.com/acarolinepsousa">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=acarolinepsousa&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acarolinepsousa&layout=compact&langs_count=16&theme=blueberry" />
 </div>
   
 <div style="display: inline_block"><br>

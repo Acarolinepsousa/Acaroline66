@@ -4,12 +4,12 @@ Meu nome é Ana Caroline.
 
 Almejo me tornar uma desenvolvedora full-stack. 
 
-Hoje estou estudando JavaScript, JSX, React e Node.
+Hoje estou estudando JavaScript, JSX, React, Node e Python.
 
 <div>
-<a href:"https://github.com/acarolinepsousa">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=acarolinepsousa&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acarolinepsousa&layout=compact&langs_count=16&theme=blueberry" />
+<a href:"https://github.com/acarolineps">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=acarolineps&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acarolineps&layout=compact&langs_count=16&theme=blueberry" />
 </div>
   
 <div style="display: inline_block"><br>
@@ -27,10 +27,3 @@ Hoje estou estudando JavaScript, JSX, React e Node.
   <a href = "mailto:contatoacps5698@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/ana-caroline-sousa-499160209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-
-
-<!---
-Acaroline66/Acaroline66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

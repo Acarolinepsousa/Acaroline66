@@ -4,7 +4,7 @@ Meu nome é Ana Caroline.
 
 Almejo me tornar uma desenvolvedora full-stack. 
 
-Hoje estou equiblibrando meus estudos entre a parte de Front-end como HTML, CSS, JS, e também Python nas horas vagas.
+Hoje estou equiblibrando meus estudos entre a parte de Front-end como HTML, CSS, JavaScript, TypeScript e também Python, React e Node.
 
 <div>
 <a href:"https://github.com/acarolineps">
